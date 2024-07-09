@@ -1,0 +1,7 @@
+fastapi
+pandas
+uvicorn
+python-multipart
+faker
+cryptography
+boto3==1.34.141
